@@ -17,7 +17,7 @@
 
 Install a local `geth` node. E.g. by following: https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
 
-Launch the local `geth` node (connecting to the rinkey test network) in a terminal using:
+Launch the local `geth` node (connecting to the rinkeby test network) in a terminal using:
 
 ```
 geth --rinkeby --rpc --verbosity 2 console
