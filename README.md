@@ -36,6 +36,12 @@ You will also need to grab a random destination Ethereum account. You can use ht
 
 ## Running
 
+Install dependencies:
+
+```
+npm install
+```
+
 You can launch the client and get help using:
 
 ```
